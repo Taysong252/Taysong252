@@ -4,8 +4,6 @@
 
 ### Systems Information Engineer · Software Developer · AI & Technology
 
-<img src="https://camo.githubusercontent.com/5eea55994fc62b7d54c7514b64070c48af45eea3a41ddb4177da4590b4f4f7b6/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f5f444f42616e477370594141414141432f636f64652d636f64696e672e676966" width="500">
-
 <br><br>
 
 <a href="mailto:taysong252@gmail.com">
@@ -228,40 +226,6 @@ This experience strengthened my **communication, organization, responsibility an
 
 </div>
 
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=taysong252&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taysong252&layout=compact&theme=tokyonight&hide_border=true">
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=taysong252&theme=tokyonight&hide_border=true">
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=taysong252&theme=tokyo-night&hide_border=true">
-
-</div>
-
----
-
 # 💻 What I Build
 
 <div align="center">
@@ -316,7 +280,7 @@ I am focused on continuously developing my technical skills and building solutio
 
 ---
 
-# 📄 Curriculum Vitae
+# 📄 Curriculum
 
 <div align="center">
 
@@ -336,7 +300,7 @@ I am focused on continuously developing my technical skills and building solutio
 
 # 🤝 Let's Connect
 
-<div align="center">
+<div align="">
 
 <a href="mailto:taysong252@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="55">
@@ -356,7 +320,7 @@ I am focused on continuously developing my technical skills and building solutio
 
 <br><br>
 
-📧 **[taysong252@gmail.com](mailto:taysong252@gmail.com)**
+ **[taysong252@gmail.com](mailto:taysong252@gmail.com)**
 
 📍 **Limón, Pococí, Cariari, Costa Rica**
 
